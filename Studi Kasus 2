@@ -7,7 +7,7 @@ int main (){
   string jenis[20];
   int pilih1,bayar,kembalian,harga,total,menu,jarak;
   float diskon;
-	cout << "RUMAH MAKAN SEDERHANA" << endl;
+	cout << "RUMAH MAKAN AYAM MAHAL" << endl;
   cout << "========================" << endl;
   cout << "\nMenu Makanan dan Harga : " << endl;
   cout << "\n1. Ayam Geprek  : Rp21.000" << endl;
